@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Our founder, CEO, and president for life Jon Moody will write a little about page
+very soon. Until he does that here's a comic I've always liked:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src='http://3.bp.blogspot.com/-Jjq2sRtzAV4/Vc6JVIry6vI/AAAAAAAACME/xd1nDt72ZAU/s1600/physics-too-many-scientists-not-enough-hunchbacks.jpg' width='300px;'>
