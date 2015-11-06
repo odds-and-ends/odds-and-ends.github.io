@@ -18,3 +18,7 @@ github_username:  odds-and-ends
 
 # Build settings
 markdown: kramdown
+
+# Gems
+gems:
+  - jekyll-sitemap
